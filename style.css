@@ -664,6 +664,9 @@ ul a .nav-list-item.plans {
 		display: block;
 		max-width: unset;
 	}
+	.footer .footer-bg-img {
+		width: 100vw;
+	}
 	.footer-items .footer-links {
 		flex-direction: column;
 		justify-content: center;
